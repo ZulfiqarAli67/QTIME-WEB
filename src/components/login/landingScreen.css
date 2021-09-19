@@ -1,0 +1,159 @@
+.landingPage_body_title {
+  text-align: left;
+  margin-left: 15px;
+  padding-bottom: 30px;
+}
+
+.landingPage_body_content_2 {
+  background-color: rgb(240, 240, 240);
+  padding-top: 10px;
+}
+
+.content {
+  background-color: rgb(240, 240, 240) !important
+}
+
+.font12 {
+  font-size: 12px !important;
+}
+
+.font20 {
+  font-size: 20px !important;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.orange {
+  color: #f3872b;
+}
+
+.landingPage_body_content_1_left {
+  float: left;
+  text-align: center;
+  margin-left: 15px;
+}
+
+.landingPage_body_content_1 {
+  display: flex;
+  padding-top: 20px;
+}
+
+.emptyContainer {
+  flex: 1;
+}
+
+.landingPage_body_content_1_left {
+  flex: 1;
+}
+
+.landingPage_body_content_1_right {
+  flex: 1;
+}
+
+.landingPage_header_1 {
+  height: 100px;
+  background-color: black;
+}
+
+.landingPage_header {
+  height: 130px;
+}
+
+.landingPage_body {
+  background-color: rgb(240, 240, 240);
+}
+
+.landingPage_header_2 {
+  height: 30px;
+  background-color: #f3872b;
+}
+
+.loginContainer {
+  width: 260px;
+  border-style: solid;
+  height: 135px;
+  text-align: center;
+  border-color: #f3872b;
+  border-width: 6px;
+}
+
+.login {
+  background-image: url("../../assets/images/qasave.gif");
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  display: block;
+}
+
+.login_btn {
+  background-color: transparent;
+  border-radius: 25px;
+  padding: 8px 12px;
+  border: 1px dotted rgb(255, 255, 255);
+  color: white;
+  font-size: 2vh;
+  outline: none;
+}
+
+.loginCon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.landingPage_body_footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding-left: 10%;
+}
+
+.landingPage_body_content_2 {
+  display: flex;
+}
+
+.landingPage_body_content_2_left {
+  flex: 1;
+  margin-left: 10px;
+}
+
+.landingPage_body_content_2_right {
+  flex: 1;
+  margin-left: 10px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.white {
+  color: white;
+}
+
+.greyBackground {
+  background-color: grey !important;
+}
+
+.font14 {
+  font-size: 14px !important;
+}
+
+.leftText {
+  text-align: left;
+}
+
+.content {
+  height: 100%;
+}
+
+body {
+  height: 100% !important;
+  background-color: rgb(240, 240, 240) !important;
+}
+
+.btn-btnContainer .MuiButton-contained {
+  background-color: #ababab !important
+}

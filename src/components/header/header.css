@@ -1,0 +1,44 @@
+.MuiTypography-colorPrimary {
+  color: white !important;
+}
+
+/* .makeStyles-menHeader-6makeStyles-enterTimeSheet-8 {
+  margin-left: 16px;
+} */
+
+.headerMenue {
+  height: 30px;
+  background-color: #313169;
+  display: flex;
+}
+
+.menHeader {
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.font15 {
+  font-size: 15px !important;
+}
+
+.headerGroup2 {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  float: right;
+  margin-right: 10px;
+}
+
+.headerGroup1 {
+  flex: 1;
+  display: flex;
+}
+
+.logout {
+  margin-right: 15px !important;
+}
+
+.subHeader {
+  background-color: #484545;
+  color: white;
+}

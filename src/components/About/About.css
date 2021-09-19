@@ -1,0 +1,41 @@
+.headerTitle {
+    background-color: #606060;
+    color: #ffff;
+}
+
+.root {
+    flex-grow: 1;
+}
+
+.makeStyles-headerTitle-38 {
+    color: #ffff;
+    background-color: #606060;
+}
+
+.abountContainer {
+    margin: 10px;
+}
+
+.aboutSummery {
+    white-space: pre-line;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.summeryContainer {
+    border: 1px solid #000000;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.summeryContainer2{
+    margin: 10px;
+}
+.support{
+    margin-bottom: 15px;
+}
+.aboutScreen{
+    background-color: grey;
+}

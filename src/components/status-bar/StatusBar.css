@@ -1,0 +1,208 @@
+ 
+ .lblStatus{
+   padding-right: 10px;
+ }
+ .lblStatusVal{
+   padding-left: 10px;
+ }
+ .statusBar{
+   display: flex;
+   margin: 10px;
+ }
+ .statusBar-section1{
+   flex: 1;
+   display: flex;
+   justify-content: flex-start;
+ }
+ .statusBar-section2{
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+/* edit */
+.btnEdit {
+  background-image: url("../../assets/images/qaedit.gif");
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  display:block;
+}
+
+.btn-edit {
+  background-color: transparent;
+  border-radius: 25px;
+  padding: 8px 12px;
+  border: 1px dotted rgb(255, 255, 255);
+  color: white;
+  font-size: 2vh;
+  outline: none;
+}
+.btn-edit:hover {
+  background-color:rgb(228, 228, 228);
+  cursor: pointer;
+  /* border:1px solid #333; */
+}
+/* remove */
+.btnRemove {
+  background-image: url("../../assets/images/qadelete.gif");
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  display:block;
+}
+
+.btn-remove {
+  background-color: transparent;
+  border-radius: 25px;
+  padding: 8px 12px;
+  border: 1px dotted rgb(255, 255, 255);
+  color: white;
+  font-size: 2vh;
+  outline: none;
+}
+.btn-remove:hover {
+  background-color:rgb(228, 228, 228);
+  cursor: pointer;
+  /* border:1px solid #333; */
+}
+/* save */
+.btnSave {
+  background-image: url("../../assets/images/qasave.gif");
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  display:block;
+}
+
+.btn-save {
+  background-color: transparent;
+  border-radius: 25px;
+  padding: 8px 12px;
+  border: 1px dotted rgb(255, 255, 255);
+  color: white;
+  font-size: 2vh;
+  outline: none;
+}
+.btn-save:hover {
+  background-color:rgb(228, 228, 228);
+  cursor: pointer;
+  /* border:1px solid #333; */
+}
+
+/* print */
+.btnPrint {
+  background-image: url("../../assets/images/qaprint.gif");
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  display:block;
+}
+
+.btn-print {
+  background-color: transparent;
+  border-radius: 25px;
+  padding: 8px 12px;
+  border: 1px dotted rgb(255, 255, 255);
+  color: white;
+  font-size: 2vh;
+  outline: none;
+}
+.btn-print:hover {
+  background-color:rgb(228, 228, 228);
+  cursor: pointer;
+  /* border:1px solid #333; */
+}
+/* comment */
+.btnComment {
+  background-image: url("../../assets/images/qacomments.gif");
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  display:block;
+}
+
+.btn-comment {
+  background-color: transparent;
+  border-radius: 25px;
+  padding: 8px 12px;
+  border: 1px dotted rgb(255, 255, 255);
+  color: white;
+  font-size: 2vh;
+  outline: none;
+}
+.btn-comment:hover {
+  background-color:rgb(228, 228, 228);
+  cursor: pointer;
+  /* border:1px solid #333; */
+}
+/* copy */
+.btnCopy {
+  background-image: url("../../assets/images/qachkout.gif");
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  display:block;
+}
+
+.btn-copy {
+  background-color: transparent;
+  border-radius: 25px;
+  padding: 8px 12px;
+  border: 1px dotted rgb(255, 255, 255);
+  color: white;
+  font-size: 2vh;
+  outline: none;
+}
+.btn-copy:hover {
+  background-color:rgb(228, 228, 228);
+  cursor: pointer;
+  /* border:1px solid #333; */
+}
+
+/* save */
+.btnSave {
+  background-image: url("../../assets/images/qasave.gif");
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  display:block;
+}
+
+.btn-save {
+  background-color: transparent;
+  border-radius: 25px;
+  padding: 8px 12px;
+  border: 1px dotted rgb(255, 255, 255);
+  color: white;
+  font-size: 2vh;
+  outline: none;
+}
+.btn-save:hover {
+  background-color:rgb(228, 228, 228);
+  cursor: pointer;
+  /* border:1px solid #333; */
+}
+/* close */
+.btnClose {
+  background-image: url("../../assets/images/qaclose.gif");
+  background-size: cover;
+  width: 22px;
+  height: 22px;
+  display:block;
+}
+
+.btn-Close {
+  background-color: transparent;
+  border-radius: 25px;
+  padding: 8px 12px;
+  border: 1px dotted rgb(255, 255, 255);
+  color: white;
+  font-size: 2vh;
+  outline: none;
+}
+.btn-close:hover {
+  background-color:rgb(228, 228, 228);
+  cursor: pointer;
+  /* border:1px solid #333; */
+}

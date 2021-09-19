@@ -1,0 +1,96 @@
+ .dashboardPanel {
+   display: flex;
+ }
+
+ .leftPanel {
+   flex: 1;
+   display: flex;
+   flex-direction: column;
+   margin-left: 15px;
+   margin-top: 30px;
+ }
+
+ .rightPanel {
+   flex: 1;
+   display: flex;
+   flex-direction: column;
+   margin-left: 15px;
+   margin-top: 30px;
+ }
+
+ .timeSheetStats {
+   width: 100%;
+ }
+
+ .header {
+   text-align: left;
+   font-weight: bold;
+ }
+
+ .approveSheetStats {
+   width: 100%;
+ }
+
+ .companyImagePanel {
+   width: 100%;
+ }
+
+ .companySummeryPanel {
+   width: 100%;
+   margin-top: 10px;
+ }
+
+ .summery {
+   text-align: left;
+ }
+
+ .heading {
+   font-weight: bold;
+ }
+
+ .hyperlink {
+   cursor: pointer;
+   color: blue;
+   text-decoration: underline;
+ }
+
+ .placeholder {
+   border: solid;
+   border-width: thin;
+   height: 100%;
+   width: 100%;
+ }
+
+ .myimage {
+   height: 100%;
+   width: 100%;
+   background-repeat: no-repeat;
+ }
+
+ .orangeLine {
+   border: solid rgb(223 135 52);
+   width: 75%;
+ }
+
+ .refreshbtnContainer {
+   text-align: left;
+ }
+
+ .cpContainer {
+   height: 30px;
+ }
+
+ .cpEmployee {
+   padding-left: 5px !important;
+   padding-right: 5px !important;
+ }
+
+ .lbl{
+    margin-left: 10px;
+ }
+ .alignLeft {
+   text-align: left;
+ }
+ .MuiTableCell-root {
+  border-right: solid;
+}

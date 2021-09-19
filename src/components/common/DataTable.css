@@ -1,0 +1,30 @@
+.MuiDataGrid-columnsContainer {
+  color: white;
+  background-color: #606060;
+}
+.MuiDataGrid-columnHeaderTitleContainer .MuiIconButton-label {
+  color: white;
+}
+
+.MuiDataGrid-cell {
+  border-left: 1px solid rgba(224, 224, 224, 1);
+  border-right: 1px solid rgba(224, 224, 224, 1);
+}
+.MuiDataGrid-row {
+    
+  /* &:nth-of-type(odd): {
+    backgroundcolor: theme.palette.action.hover;
+  } */
+}
+.MuiDataGrid-columnSeparator{
+  height: 100% !important;
+}
+.MuiDataGrid-iconSeparator{
+  height: 100%  !important;
+}
+.MuiDataGrid-iconSeparator path{
+  d: path("M 11 39 V -7 h 2 v 39 Z");
+}
+.MuiDataGrid-row.Mui-odd {
+  background-color: aliceblue;
+}

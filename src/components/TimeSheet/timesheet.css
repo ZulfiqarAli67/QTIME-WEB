@@ -1,0 +1,44 @@
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.statusBar .MuiButton-label {
+    font-size: 14px !important;
+}
+
+.MuiDataGrid-columnHeaderTitle {
+    /* font-size: 13px !important; */
+}
+
+.MuiDataGrid-cell {
+    /* font-size: 13px !important; */
+}
+
+.content {
+    zoom: 90%;
+}
+
+.statusBar {
+    zoom: 90% !important;
+}
+
+.empDetailContainer {
+    zoom: 90% !important;
+}
+
+.dataTable {
+    zoom: 85% !important;
+}
+
+.timesheetFooter {
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    padding-right:10px;
+}

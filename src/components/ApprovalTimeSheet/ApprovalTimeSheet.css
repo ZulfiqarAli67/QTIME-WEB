@@ -1,0 +1,170 @@
+ .approversContainer {
+   width: 50%;
+   display: flex;
+   flex-direction: column;
+ }
+
+ .approvers {
+   padding-top: 20px;
+   display: flex;
+   flex-direction: row
+ }
+
+ .approvers input {
+   width: 350px !important;
+   padding-left: 10px !important;
+ }
+
+ .tot {
+   padding-top: 20px;
+   display: flex;
+   flex-direction: row
+ }
+
+ .approverTotal {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: flex-end;
+  justify-content: center;
+  align-items: flex-end;
+ }
+
+ .footer {
+   display: flex;
+   flex-direction: row;
+   margin: 10px;
+ }
+
+ .approvalDatTable {
+   display: flex;
+   flex-direction: row;
+ }
+
+ .approveAll {
+   display: flex;
+   flex: 1;
+   justify-content: flex-end;
+ }
+
+ .btnContainer {
+   display: flex;
+   /* width: 20%; */
+ }
+
+ .week {
+   display: flex;
+   flex-direction: row;
+   text-align: center;
+   height: 50px;
+   width: 40%;
+ }
+
+ .week .dropdownTitle {
+   width: 160px;
+ }
+
+ .dropdownTitle {
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   width: 30%;
+   text-align: left;
+ }
+
+ .timeSheetType {
+   width: 40%;
+   display: flex;
+   padding-left: 5%;
+ }
+
+ .timeSheetTypeBox {
+   display: flex;
+   align-items: center;
+   margin: 10px;
+ }
+
+ .row {
+   width: 100%;
+ }
+
+ .label {
+   display: flex;
+   align-items: center;
+   /* width: 20%; */
+   padding-right: 10px;
+ }
+
+ .radioGroup {
+   display: flex;
+   border-style: solid;
+   width: fit-content;
+   margin: 10px;
+   flex: 1;
+   justify-content: space-evenly;
+ }
+
+ .inputStyles {
+   border-radius: 0px;
+   height: 30px;
+ }
+
+ .inputTot {
+   border-radius: 0px;
+   width: 50% !important;
+   margin-left: -50px !important;
+ }
+
+ .inputTot .MuiInputBase-input {
+   text-align: right;
+ }
+
+ .rejectInput {
+   border-radius: 0px;
+   padding-left: 15px !important;
+ }
+
+ .rejectInput .Mui-disabled {
+   height: 35px !important;
+ }
+
+ .inputTot .Mui-disabled {
+   height: 35px !important;
+ }
+
+ .timeSheetTypeBox {
+   zoom: 90%;
+ }
+
+ .approvalDatTable {
+   zoom: 85% !important;
+ }
+
+ .footer {
+   zoom: 95% !important;
+ }
+
+ .btn-getEmployee {
+   width: 70%;
+ }
+
+ .timeSheetTypeBox .btn-save {
+   width: 15%;
+ }
+
+ .btn-Close {
+   width: 15%;
+ }
+
+ .approvers .MuiFormControl-fullWidth {
+   width: 300px!important;
+ }
+
+ .timeSheetType_2 {
+   display: flex;
+   align-items: center;
+   margin: 10px;
+   width: 100%;
+   padding-left: 1%;
+ }
